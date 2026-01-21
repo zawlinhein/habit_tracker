@@ -1,6 +1,6 @@
 # Habit Tracker API
 
-Companion codebase for the API Design with Node.js v5 course, built with Express, Drizzle ORM, PostgreSQL, and TypeScript.
+Companion codebase for the **API Design with Node.js v5 course**, built with Express, Drizzle ORM, PostgreSQL, and TypeScript.
 
 ## Prerequisites
 
